@@ -141,7 +141,7 @@ Here are some ideas to get you started:
   </a>
              
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=CONTACT+ME+ON+all&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=CONTACT+ME+ON&font=Fira%20Code&center=true&width=380&height=50">
   
   
   #### වැඩි විස්තර සඳහා...
