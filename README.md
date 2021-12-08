@@ -8,7 +8,7 @@ You can use the website to generate badges: https://shields.io/
 | <a href="https://t.me/Damantha_Jasinghe"><img src="https://telegra.ph/file/22c2e36ca312797b74ec5.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[✫ MR USHAN ♔ ](https://t.me/mrushansubhagya)**                                                                                |
-| <a href="https://t.me/mrushansubhagya"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/mrushansubhagya"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="32px" height="32px"></a>                                                                                                                                                                <a href="https://www.youtube.com/channel/UCzl8fagoLiV7zBDXQxKYAxA"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="32px" height="32px"></a>              <a href="https://twitter.com/DamanthaJ"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" width="32px" height="32px">                                 
+| <a href="https://t.me/mrushansubhagya"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/p/CM2cKIHJVVk/?utm_medium=copy_link"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="32px" height="32px"></a>                                                                                                                                                                <a href="https://www.youtube.com/channel/UCzl8fagoLiV7zBDXQxKYAxA"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="32px" height="32px"></a>              <a href="https://twitter.com/DamanthaJ"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" width="32px" height="32px">                                 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -25,7 +25,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- png icons from https://iconscout.com/ -->
 
 <a href="https://t.me/mrushansubhagya" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="shamilnelli" height="30" width="30" /></a>
-<a href="https://www.instagram.com/mrushansubhagya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="✫ MR USHAN ♔" height="30" width="40" /></a>
+<a href="https://www.instagram.com/p/CM2cKIHJVVk/?utm_medium=copy_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="✫ MR USHAN ♔" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/✫ MR USHAN ♔" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UClP0fw_t0lOU1mYuL7gEa2g" height="30" width="40" /></a>
 <a href="https://Anujasupulsara68@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="✫ MR USHAN ♔" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ushan.jayasinghe.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="✫ MR USHAN ♔" height="30" width="40" /></a>
@@ -84,7 +84,7 @@ You can use the website to generate badges: https://shields.io/
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mrushan2021)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/SadewJayasekara/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/Sadew_Jayasekara/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/p/CM2cKIHJVVk/?utm_medium=copy_link)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Anujasupulsara68@gmail.com)
       
 
@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 - [![GitHub followers](https://img.shields.io/github/followers/Mrushan2021.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Mrushan2021?tab=followers)
   
 
-<p align="center"> <a href="https://github.com/Mrushan2021"><img src="https://github-profile-trophy.vercel.app/?username=Mrushan2021&no-bg=true" alt="Anuja2003" /></a> </p>
+<p align="center"> <a href="https://github.com/Mrushan2021"><img src="https://github-profile-trophy.vercel.app/?username=Mrushan2021&no-bg=true" alt="Mrushan2021" /></a> </p>
 
 # Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
 
