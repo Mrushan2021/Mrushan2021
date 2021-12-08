@@ -25,7 +25,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- png icons from https://iconscout.com/ -->
 
 <a href="https://t.me/mrushansubhagya" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="shamilnelli" height="30" width="30" /></a>
-<a href="https://instagram.com/slsadewbro1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="✫ MR USHAN ♔" height="30" width="40" /></a>
+<a href="https://www.instagram.com/invites/contact/?i=v5mjdeezmcna&utm_content=gq3s0cq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="✫ MR USHAN ♔" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/✫ MR USHAN ♔" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UClP0fw_t0lOU1mYuL7gEa2g" height="30" width="40" /></a>
 <a href="https://Anujasupulsara68@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="✫ MR USHAN ♔" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ushan.jayasinghe.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="✫ MR USHAN ♔" height="30" width="40" /></a>
