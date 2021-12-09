@@ -131,7 +131,7 @@ Here are some ideas to get you started:
     
    
  <div align="center">
-  <img src="https://telegra.ph/Mr-Ushan-12-07" width="250" height="250">
+  <img src="https://i.ibb.co/1nGBNb4/d171d86c8c85.jpg" width="250" height="250">
  
  
    ✫ MR USHAN ♔
