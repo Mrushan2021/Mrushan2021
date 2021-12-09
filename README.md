@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 
 
  
-###**[✫ MR USHAN ♔ ](https://t.me/mrushansubhagya)** <div align="center"><img src="https://profile-counter.glitch.me/Mrushan2021/count.svg" /><br>Profile Viewers</div>
+**[✫ MR USHAN ♔ ](https://t.me/mrushansubhagya)** <div align="center"><img src="https://profile-counter.glitch.me/Mrushan2021/count.svg" /><br>Profile Viewers</div>
 
 > `Website:` [✫ MR USHAN ♔ ](https://github.com/Mrushan2021.io/) <br>
 
