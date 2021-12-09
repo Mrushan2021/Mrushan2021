@@ -145,7 +145,7 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com/?lines=CONTACT+ME+ON&font=Fira%20Code&center=true&width=380&height=50">
   
   
-  #### වැඩි විස්තර සඳහා...
+  #### FOR MORE DETAILS...
  <p align="center">
 <a href="http://wa.me/"><img title="Whatsapp" src="https://img.shields.io/badge/Watsapp-Contact-ft/Akina?color=blue&style=for-the-badge&logo=whatsapp"></a>
  
