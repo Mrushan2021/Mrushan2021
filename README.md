@@ -1,6 +1,6 @@
 ### HELLO <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [✫ MR USHAN ♔ ](https://t.me/mrushansubhagya) | [![Profile views](https://komarev.com/ghpvc/?username=Mrushan2021a&label=Profile%20views)](https://github.com/Mrushan2021) 
 
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+PROFILE+ہـ٨ـ♡ـ٨+ــ❥ـ٨+ــ&font=Fira%20Code&center=true&width=380&height=50">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+PROFILE+ہـ♡ـ٨ــ❥ـ٨ـ&font=Fira%20Code&center=true&width=380&height=50">
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
