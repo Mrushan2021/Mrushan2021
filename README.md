@@ -131,7 +131,7 @@ Here are some ideas to get you started:
     
    
  <div align="center">
-  <img src="https://i.ibb.co/1nGBNb4/d171d86c8c85.jpg" width="250" height="250">
+  <img src="https://i.ibb.co/3c3XVMS/bbe89d5e74df.jpg" width="250" height="250">
  
  
    ✫ MR USHAN ♔
