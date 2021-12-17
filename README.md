@@ -5,7 +5,7 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-| <a href="https://t.me/Damantha_Jasinghe"><img src="https://telegra.ph/Git-12-14" width="300px" height="300px" /></a> |
+| <a href="https://t.me/Damantha_Jasinghe"><img src="https://user-images.githubusercontent.com/45633928/104728821-af559d80-5761-11eb-9eaf-531d390ef588.gif" width="300px" height="300px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[✫ MR USHAN ♔ ](https://t.me/mrushansubhagya)**                                                                                |
 | <a href="https://t.me/mrushansubhagya"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/p/CM2cKIHJVVk/?utm_medium=copy_link"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="32px" height="32px"></a>                                                                                                                                                                <a href="https://www.facebook.com/ushan.jayasinghe.7"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="32px" height="32px"></a>              <a href="https://twitter.com/DamanthaJ"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" width="32px" height="32px">                                 
