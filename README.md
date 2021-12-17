@@ -153,4 +153,5 @@ Here are some ideas to get you started:
 <a href="https://t.me/mrushansubhagya"><img title="Telegram" src="https://img.shields.io/badge/Telegram-Contact-ft/Akina?color=blue&style=for-the-badge&logo=Telegram"></a>
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=IT+IS+ME+✫+MR+USHAN+♔+ہـ٨ـ♡ـ٨ــ❥ـ٨ــ&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://telegra.ph/file/5f87fb021083c2fec10a4.gif">
 
