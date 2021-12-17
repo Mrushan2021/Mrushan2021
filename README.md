@@ -41,7 +41,7 @@ You can use the website to generate badges: https://shields.io/
 </details>
 
 # 📊 Status
-[![Metrics](https://metrics.lecoq.io/Mrushan2021?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/Anujasupulsara)
+[![Metrics](https://metrics.lecoq.io/Mrushan2021?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/mrushansubhagya)
  
 
  
@@ -152,6 +152,6 @@ Here are some ideas to get you started:
  <p align="center">
 <a href="https://t.me/mrushansubhagya"><img title="Telegram" src="https://img.shields.io/badge/Telegram-Contact-ft/Akina?color=blue&style=for-the-badge&logo=Telegram"></a>
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=IT+IS+ME+✫+MR+USHAN+♔+ہـ٨ـ♡ـ٨ــ❥ـ٨ــ&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=IT+IS+ME+✫+MR+USHAN&font=Fira%20Code&center=true&width=380&height=50">
   <img src="https://telegra.ph/file/5f87fb021083c2fec10a4.gif">
 
