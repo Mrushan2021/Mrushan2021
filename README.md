@@ -115,7 +115,6 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-- ![Profile views](https://gpvc.arturio.dev/Damantha126)
 - [![GitHub followers](https://img.shields.io/github/followers/Mrushan2021.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Mrushan2021?tab=followers)
   
 
